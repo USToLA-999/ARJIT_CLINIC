@@ -1,0 +1,179 @@
+
+
+
+a{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+}
+.caption_index{
+    font-size: 22px;
+    font-weight: 400;
+    color: rgb(102, 102, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h4 {
+    display: block;
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.parabox p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+}
+.apointbox{
+    background-color: rgb(208, 208, 208);
+    border-radius: 50px;
+}
+
+.formbox{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.formbox input{
+    outline: none;
+    border: none;
+   border-bottom: 3px solid rgb(88, 88, 88);
+    
+    background-color: transparent;
+}
+.foot-margin p {
+    font-family: 20px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.aboutusbody{
+    background-color: rgb(64, 90, 255);
+    position: relative;
+    margin-top: 5%;
+}
+
+.bacjgrounbox{
+    background-color: #0099ff;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .valuescontent{
+    background: linear-gradient(100deg, #B1DCEC 100%, #FFFFFF21 100%);
+    
+  }
+  .imageportion{
+    width: 60%;
+    border-radius: 50%;
+  }
+  .reviescontainerbox{
+    background-color: rgb(243, 248, 250);
+  }
+  .healthcampboc{
+    background: #F8F9FA;
+  }
+  .backki{
+    background: #eaeaea;
+    border-radius: 20px;
+    
+  }
+  .imagin{
+    border-radius: 80px;
+    
+  }
+  .list-ico{
+    list-style: none;
+    li{
+      margin-top: 5%;
+    }
+  }
+  span{
+    font-size: large;
+    font-weight: bold;
+  }
+  iframe{
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px 0 #9e9e9e;
+  }
+
+  .maincontainerbodypart{
+     background: #0099ff; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+  }
+  .pediatrationbox,.generalphysician{
+    background: #C4D8E4;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .bacjgrounbox{
+    background-color: #0099ff;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .containent{
+    margin-top: 5%;
+  }
+  .contentlines{
+    margin-top: 5%;
+  }
+  .imbox{
+    margin-top: 10%;
+  }
+  
+  .bordering1{
+    border-radius: 50px;
+  }
+  .bordering2{
+    border-radius: 25px 0 25px 0;
+  }
+  .bordering3{
+    border-radius: 0px 25px 0px 25px;
+  }
+  .bordering4{
+    border-radius: 0px 25px 85px 25px;
+  }
+  .bordering5{
+    border-radius: 20px 0px 85px 25px;
+  }
+  .bordering6{
+    border-radius: 20px 85px 85px 25px;
+  }
+  .bordering7{
+    border-radius: 85px 85px 85px 85px;
+  }
+  .list-ico{
+    list-style: none;
+    li{
+      margin-top: 5%;
+    }
+  }
+  span{
+    font-size: large;
+    font-weight: bold;
+  }
+  iframe{
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px 0 #9e9e9e;
+  }
+  .backki{
+    background: #eaeaea;
+    border-radius: 20px;
+    
+  }
+  .imagin{
+    border-radius: 80px;
+    
+  }
